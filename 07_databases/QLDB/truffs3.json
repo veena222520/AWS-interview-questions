@@ -1,6 +1,0 @@
-{
-	"name" : "truffles",
-	"age" : "8",
-	"status" : "cat",
-	"slaves" : ["Adrian", "Nat"]
-}
